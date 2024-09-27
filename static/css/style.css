@@ -423,33 +423,10 @@ section {
 .popup p {
     border-top: 1px dashed #262626;
     padding-top: 13px;
-
 }
 
 .popup .button {
     opacity: 0;
-}
-
-.popup .close-button {
-    bottom: 1px;
-    font-size: 14px;
-    left: 43%;
-    margin-left: -75px;
-    padding: 0 35px;
-    position: absolute;
-    width: 150px;
-}
-
-.popup .prev,
-.popup .next {
-    bottom: 1px;
-    font-size: 24px;
-    left: 43%;
-    margin-left: -155px;
-    padding: 0;
-    position: absolute;
-    text-align: center;
-    width: 60px;
 }
 
 .popup .prev.unactive,
